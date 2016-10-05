@@ -3,7 +3,8 @@ Introduction
 
 .. image:: https://badge.fury.io/py/django-neue-transmeta.png
     :target: https://badge.fury.io/py/django-neue-transmeta
-
+This is my fork of Neue-Transmeta to include a fix for  get_language returning None issue:
+https://github.com/Yaco-Sistemas/django-transmeta/issues/14
 
 Neue-Transmeta is a fork of Transmeta which is django 1.9 compatible, although they cannot co-exist
 
