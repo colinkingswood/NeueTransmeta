@@ -1,3 +1,7 @@
+0.8.1 (2016-10-20)
+
+- Fix for error when splitting language that doesn't exist
+
 0.8.0 (2016-02-03)
 -------------------
 
